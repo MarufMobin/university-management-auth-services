@@ -24,6 +24,10 @@
     },
     "env": {
         "browser": true,
-        "es2023": true
+        "es2023": true,
+        "node": true
+    },
+    "globals": {
+        "process": "readonly"
     }
 }

@@ -1,0 +1,42 @@
+{
+  message: 'Database Connected Successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'UNI',
+  timestamp: '2023-11-15T14:37:36.542Z'
+}
+{
+  message: 'Application Listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'UNI',
+  timestamp: '2023-11-15T14:37:36.573Z'
+}
+{
+  message: 'Database Connected Successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'UNI',
+  timestamp: '2023-11-15T14:38:06.717Z'
+}
+{
+  message: 'Application Listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'UNI',
+  timestamp: '2023-11-15T14:38:06.725Z'
+}
+{
+  message: 'Database Connected Successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'UNI',
+  timestamp: '2023-11-15T14:39:20.318Z'
+}
+{
+  message: 'Application Listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'UNI',
+  timestamp: '2023-11-15T14:39:20.333Z'
+}
