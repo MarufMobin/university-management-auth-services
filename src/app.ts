@@ -1,6 +1,6 @@
-import express, { Application, Request, Response } from 'express'
 import cors from 'cors'
-import usersRoter from './app/modules/users/users.route'
+import express, { Application } from 'express'
+import { UserRoutes } from './app/modules/users/user.route'
 
 // use Express
 const app: Application = express()
@@ -13,11 +13,11 @@ app.use(express.json())
 app.use(express.urlencoded({ extended: true }))
 
 // Application Routes
-app.use('/api/v1/users/', usersRoter)
+app.use('/api/v1/users/', UserRoutes)
 
 // Testing
-app.get('/', async (req: Request, res: Response) => {
-  res.send('Working Successfully')
-})
+// app.get('/', async (req: Request, res: Response, next: NextFunction) => {
+//   Promise.reject( new Error('Unhandel Promise Rejection'))
+// })
 
 export default app

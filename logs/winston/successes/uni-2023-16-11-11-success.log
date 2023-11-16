@@ -3,152 +3,152 @@
   level: 'info',
   service: 'user-service',
   label: 'UNI',
-  timestamp: '2023-11-15T17:00:12.593Z'
+  timestamp: '2023-11-16T05:37:27.005Z'
 }
 {
   message: 'Application Listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'UNI',
-  timestamp: '2023-11-15T17:00:12.610Z'
+  timestamp: '2023-11-16T05:37:27.154Z'
 }
 {
   message: 'Database Connected Successfully',
   level: 'info',
   service: 'user-service',
   label: 'UNI',
-  timestamp: '2023-11-15T17:00:25.575Z'
+  timestamp: '2023-11-16T05:37:51.929Z'
 }
 {
   message: 'Application Listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'UNI',
-  timestamp: '2023-11-15T17:00:25.583Z'
+  timestamp: '2023-11-16T05:37:51.938Z'
 }
 {
   message: 'Database Connected Successfully',
   level: 'info',
   service: 'user-service',
   label: 'UNI',
-  timestamp: '2023-11-15T17:00:52.273Z'
+  timestamp: '2023-11-16T05:38:01.455Z'
 }
 {
   message: 'Application Listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'UNI',
-  timestamp: '2023-11-15T17:00:52.280Z'
+  timestamp: '2023-11-16T05:38:01.471Z'
 }
 {
   message: 'Database Connected Successfully',
   level: 'info',
   service: 'user-service',
   label: 'UNI',
-  timestamp: '2023-11-15T17:01:18.130Z'
+  timestamp: '2023-11-16T05:39:46.933Z'
 }
 {
   message: 'Application Listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'UNI',
-  timestamp: '2023-11-15T17:01:18.139Z'
+  timestamp: '2023-11-16T05:39:46.940Z'
 }
 {
   message: 'Database Connected Successfully',
   level: 'info',
   service: 'user-service',
   label: 'UNI',
-  timestamp: '2023-11-15T17:01:28.259Z'
+  timestamp: '2023-11-16T05:39:59.139Z'
 }
 {
   message: 'Application Listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'UNI',
-  timestamp: '2023-11-15T17:01:28.268Z'
+  timestamp: '2023-11-16T05:39:59.146Z'
 }
 {
   message: 'Database Connected Successfully',
   level: 'info',
   service: 'user-service',
   label: 'UNI',
-  timestamp: '2023-11-15T17:01:39.818Z'
+  timestamp: '2023-11-16T05:40:40.608Z'
 }
 {
   message: 'Application Listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'UNI',
-  timestamp: '2023-11-15T17:01:39.826Z'
+  timestamp: '2023-11-16T05:40:40.615Z'
 }
 {
   message: 'Database Connected Successfully',
   level: 'info',
   service: 'user-service',
   label: 'UNI',
-  timestamp: '2023-11-15T17:03:08.760Z'
+  timestamp: '2023-11-16T05:48:46.468Z'
 }
 {
   message: 'Application Listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'UNI',
-  timestamp: '2023-11-15T17:03:08.767Z'
+  timestamp: '2023-11-16T05:48:46.477Z'
 }
 {
   message: 'Database Connected Successfully',
   level: 'info',
   service: 'user-service',
   label: 'UNI',
-  timestamp: '2023-11-15T17:04:02.571Z'
+  timestamp: '2023-11-16T05:48:52.289Z'
 }
 {
   message: 'Application Listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'UNI',
-  timestamp: '2023-11-15T17:04:02.578Z'
+  timestamp: '2023-11-16T05:48:52.296Z'
 }
 {
   message: 'Database Connected Successfully',
   level: 'info',
   service: 'user-service',
   label: 'UNI',
-  timestamp: '2023-11-15T17:05:09.869Z'
+  timestamp: '2023-11-16T05:52:42.035Z'
 }
 {
   message: 'Application Listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'UNI',
-  timestamp: '2023-11-15T17:05:09.875Z'
+  timestamp: '2023-11-16T05:52:42.042Z'
 }
 {
   message: 'Database Connected Successfully',
   level: 'info',
   service: 'user-service',
   label: 'UNI',
-  timestamp: '2023-11-15T17:06:05.915Z'
+  timestamp: '2023-11-16T05:53:41.734Z'
 }
 {
   message: 'Application Listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'UNI',
-  timestamp: '2023-11-15T17:06:05.922Z'
+  timestamp: '2023-11-16T05:53:41.741Z'
 }
 {
   message: 'Database Connected Successfully',
   level: 'info',
   service: 'user-service',
   label: 'UNI',
-  timestamp: '2023-11-15T17:23:29.381Z'
+  timestamp: '2023-11-16T05:59:19.658Z'
 }
 {
   message: 'Application Listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'UNI',
-  timestamp: '2023-11-15T17:23:29.389Z'
+  timestamp: '2023-11-16T05:59:19.667Z'
 }
