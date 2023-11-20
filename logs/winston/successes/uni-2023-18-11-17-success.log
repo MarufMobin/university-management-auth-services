@@ -334,3 +334,17 @@
   label: 'UNI',
   timestamp: '2023-11-18T11:40:08.049Z'
 }
+{
+  message: 'Database Connected Successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'UNI',
+  timestamp: '2023-11-18T11:41:20.703Z'
+}
+{
+  message: 'Application Listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'UNI',
+  timestamp: '2023-11-18T11:41:20.712Z'
+}
