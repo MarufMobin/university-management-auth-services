@@ -6,7 +6,7 @@ import {
 
 export const academicSemesterTitles: IAcademicSemesterTitles[] = [
   'Autumn',
-  'Summer ',
+  'Summer',
   'Fall',
 ];
 
@@ -16,7 +16,7 @@ export const academicSemesterCodes: IAcademicSemesterCodes[] = [
   '03',
 ];
 
-export const academicSemesterMonths: IAcademicSemesterMonths[] = [
+export const acdemicSemesterMonths: IAcademicSemesterMonths[] = [
   'January',
   'February',
   'March',
@@ -40,6 +40,7 @@ export const academicSemesterTitleCodeMapper: {
 };
 
 export const academicSemesterSearchableFields = ['title', 'code', 'year'];
+
 export const academicSemesterFilterableFields = [
   'searchTerm',
   'title',

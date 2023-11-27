@@ -14,7 +14,8 @@ export type IAcademicSemesterMonths =
   | 'November'
   | 'December';
 
-export type IAcademicSemesterTitles = 'Autumn' | 'Summer ' | 'Fall';
+export type IAcademicSemesterTitles = 'Autumn' | 'Summer' | 'Fall';
+
 export type IAcademicSemesterCodes = '01' | '02' | '03';
 
 export type IAcademicSemester = {
@@ -25,8 +26,8 @@ export type IAcademicSemester = {
   endMonth: IAcademicSemesterMonths;
 };
 
+export type AcademicSemesterModel = Model<IAcademicSemester>;
+
 export type IAcademicSemesterFilters = {
   searchTerm?: string;
 };
-
-export type AcademicSemesterModel = Model<IAcademicSemester>;
